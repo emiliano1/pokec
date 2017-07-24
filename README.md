@@ -19,5 +19,5 @@ The `users` table structure maps the fiels from the `soc-pokec-profiles.txt` fil
 
 ## Answers
 
-1. An Search Engine would allow for better searches and filtering.
+1. A Search Engine would allow for better searches and filtering.
 2. I would integrate the system with Elastic Search to allow for optmized retrieval of the data, as we have many string fields in the table structure.
